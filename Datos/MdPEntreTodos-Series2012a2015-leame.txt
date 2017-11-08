@@ -1,0 +1,23 @@
+Los campos van en este orden
+1.	ID de indicador (número entero)
+2.	Valor del indicador varia según el tipo de indicador.
+3.	Performance (o semáforo) Un número del 0 al 3, siendo 1 verde, 2 amarillo y 3 rojo, el 0 se usa para cuando el semáforo no está disponible o no aplica.
+4.	Calificación del indicador los valores posibles son ND, A1, A2, A3, A4, B2, B3, B4, C3, C4, C5, D3, D4, D5 y D6
+5.	Fuente (texto, máximo 50 caracteres)
+6.	Ciudad 1 - Código (texto, 3 caracteres) Código de la ciudad, ejemplo MDZ para mendoza.
+7.	Ciudad 1 - Serie El año en que el valor fue medido
+8.	Ciudad 1 - Valor del indicador Idem campo 2
+9.	Ciudad 1 - Performance Idem campo 3
+10.	Ciudad 2 - Código (texto, 3 caracteres) Código de la ciudad, ejemplo MDZ para mendoza.
+11.	Ciudad 2 - Serie El año en que el valor fue medido
+12.	Ciudad 2 - Valor del indicador Idem campo 2
+13.	Ciudad 2 - Performance Idem campo 3
+14.	Ciudad 3 - Código (texto, 3 caracteres) Código de la ciudad, ejemplo MDZ para mendoza.
+15.	Ciudad 3 - Serie El año en que el valor fue medido
+16.	Ciudad 3 - Valor del indicador Idem campo 2
+17.	Ciudad 3 - Performance Idem campo 3
+18.	Ciudad 4 - Código (texto, 3 caracteres) Código de la ciudad, ejemplo MDZ para mendoza.
+19.	Ciudad 4 - Serie El año en que el valor fue medido
+20.	Ciudad 4 - Valor del indicador Idem campo 2
+21.	Ciudad 4 - Performance Idem campo 3
+
